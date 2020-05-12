@@ -1,6 +1,12 @@
 # Keyboardio Model 01 Firmware
 
-_The default firmware for the Keyboardio Model 01_
+--------
+
+**NOTE WELL: This is the Kodachi fork of the Model 01 Firmware. If
+  you're looking for the KeyboardIO reference firmware, this is
+  not it.**
+
+--------
 
 <h3>This is a quick start guide for folks who are familiar with Arduino and prefer to use the command line. For everyone else:
 
